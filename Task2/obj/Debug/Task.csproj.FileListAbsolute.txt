@@ -1,0 +1,14 @@
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\Task.dll.config
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\Task.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\Task.pdb
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\EntityFramework.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\EntityFramework.xml
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\obj\Debug\Task.csproj.CopyComplete
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\obj\Debug\Task.dll
+C:\Users\aziza\Downloads\Mentoring.2017.Module.13-master\Mentoring.2017.Module.13-master\Task2\obj\Debug\Task.pdb
